@@ -1,30 +1,24 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free Site License:
+------------------
+
+CC 3.0 All of the site templates we create for WebThemez are licensed under the Creative Commons Attribution 4.0 License, which means you can:
+ - You can use our templates for both personal and commercial projects. 
+ - You are NOT allowed to remove the back link to WebThemez.com in templates unless you purchased a license. 
+ - You can update /modify/customize the website to fit your project needs. 
+ - You cannot claim credit or ownership for any of the files found on webthemez.com. 
+ - You cannot redistribute, resell, license, or sub-license any of the files found on webthemez.com. 
+
+ - No Support
+ - No Php files ( contact form does not work)
+ - No Updates
 
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+Credits :
+--------- 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+=> Design & developed: "WebThemez"  http://webthemez.com 
+=> Bootstrap : http://getbootstrap.com/
+=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
+=> Fonts : https://www.google.com/fonts
+=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
+=> Carousel : http://owlgraphic.com/owlcarousel/
