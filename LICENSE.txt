@@ -1,46 +1,14 @@
---------------------------------------------
-Template License 
---------------------------------------------
+---------------------
+ LICENSE CONDITIONS
+---------------------
 
-Template Name : MU Material
-Author : MarkUps
-Author URL : http://www.markups.io/
-License URL : http://www.markups.io/license   
-Note : Before using we recommend check our template license page.
+You are completely free to use this template for your personal use or as a work for your client as 
+long as you keep the link at the template footer pointing to us and our partner. 
 
---------------------------------------------
-Resources License and Credits : 
---------------------------------------------
+If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate) 
+to support themes' development. Suggested amount per template is $10. 
+Also, as a bonus for donors, I can provide you the {LESS} files for even easier template customization. Drop me a line at hello@bootstrapious.com after donating.
 
-Images:
-	Website URL : http://www.imcreator.com/free
-	License : Creative Commons CC0
-	License URL : https://creativecommons.org/publicdomain/zero/1.0/deed.en
-	Note: All the images used in this item owned by the respective authors & you might need permission for using those on live sites from authors.
+However you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g. selling it on template marketplace).
 
-Materialize :
-	Website URL : http://materializecss.com/
-	License : The MIT License
-	License URL : https://github.com/Dogfalo/materialize/blob/master/LICENSE
-
-OwlCarousel :
-	Website URL : https://github.com/OwlFonk/OwlCarousel
-	License : The MIT License
-	License URL : https://github.com/OwlFonk/OwlCarousel/blob/master/LICENSE
-
-Mixitup :
-	Website URL : https://mixitup.kunkalabs.com/
-	License : Creative Commons CC0
-	License URL : https://mixitup.kunkalabs.com/licenses/
-
-Counter-Up :
-	Website URL : https://github.com/bfintal/Counter-Up
-	License : GNU GENERAL PUBLIC LICENSE, Version 2
-	License URL : https://github.com/bfintal/Counter-Up/blob/master/LICENSE
-
-Font Awesome :
-	Website URL : http://fortawesome.github.io/Font-Awesome/
-	License : open source 
-	License URL : http://fortawesome.github.io/Font-Awesome/license/
-
-
+Thank you for understanding and respecting the license conditions.
